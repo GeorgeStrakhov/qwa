@@ -4,6 +4,7 @@
 * [Do I understand correctly that...?](coming_soon.md)
 * [Does it really matter?](coming_soon.md)
 * [What if I do nothing?](coming_soon.md)
+* [Do I really need this?](coming_soon.md)
 * [What am I optimizing for?](coming_soon.md)
 * [What assumptions is this based on?](coming_soon.md)
 * [At what scale and time horizon am I thinking about this?](coming_soon.md)
