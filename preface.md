@@ -4,7 +4,7 @@ With this little book, I am inviting you to take point of view at the world that
 
 1. The two most powerful forces in human history are (A) Belief and (B) Doubt.
 
-2. Belief is a force that allows us to create something out of nothing. It allows us to disregard the plastic messiness of reality and act intentionally to make it what we want it to be. Doubt is the opposite force that allows us to deconstruct something back into nothing, so that it can be put back together again. Belief helps us create maps, so that we know where to go. Doubt helps us find out that we are lost when reality doesn't match our expectations. Belief is the force for making things up. Doubt is the force for finding things out.
+2. Belief is a force that allows us to create something out of nothing. It allows us to disregard the plastic messiness of reality and act intentionally to make it what we want it to be. Cathedrals and empires have been built based on powerful Beliefs. Doubt is the opposite and equally powerful force that allows us to deconstruct something back into nothing, so that it can be put back together again, into something that works better. Aeroplanes fly on doubt. Deceases are cured by doubt. Belief helps us create maps, so that we know where to go. Doubt helps us find out that we are lost when reality doesn't match our expectations. Belief is the force for making things up. Doubt is the force for finding things out.
 
 3. As long as an intelligent organism (be it a human or a company) is alive, it has to be utilizing the power of both Belief and Doubt. In other words, as long as you keep thinking, you have to keep questioning some things and taking other things for granted.
 
