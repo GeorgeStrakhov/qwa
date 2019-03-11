@@ -1,5 +1,6 @@
 # Question Worth Asking
 
+* [Preface](preface.md)
 * [Why am I doing this?](coming_soon.md)
 * [Do I understand correctly that...?](coming_soon.md)
 * [Does it really matter?](coming_soon.md)
@@ -8,6 +9,7 @@
 * [What am I optimizing for?](coming_soon.md)
 * [What assumptions is this based on?](coming_soon.md)
 * [At what scale and time horizon am I thinking about this?](coming_soon.md)
+* [Is this consequential and at what scale?](coming_soon.md)
 * [Is this reversible?](coming_soon.md)
 * [When did I last experience somethin like this?](coming_soon.md)
 * [Does it make sense?](coming_soon.md)
@@ -17,3 +19,4 @@
 * [Is it beautiful?](coming_soon.md)
 * [What is interesting about it?](coming_soon.md)
 * [What can be done right now?](coming_soon.md)
+* [Where will it lead in 10 months / years?](coming_soon.md)
