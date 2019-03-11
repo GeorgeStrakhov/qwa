@@ -1,6 +1,6 @@
 # Doubtery or Question Worth Asking
 
-* [Preface](preface.md)
+* [To doubt or not to doubt? (Preface)](preface.md)
 * [Why am I doing this?](coming_soon.md)
 * [Do I understand correctly that...?](coming_soon.md)
 * [Does it really matter?](coming_soon.md)
