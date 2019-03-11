@@ -1,4 +1,5 @@
-# Question Worth Asking
+# Doubtery
+## Question Worth Asking
 
 * [Preface](preface.md)
 * [Why am I doing this?](coming_soon.md)
