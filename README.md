@@ -19,6 +19,7 @@
 * [Is it beautiful?](coming_soon.md)
 * [What is interesting about it?](coming_soon.md)
 * [What can be done right now?](coming_soon.md)
+* [Where will it lead in 10 months / years?](coming_soon.md)
 * [Which domains of human life related to what is going on?](coming_soon.md)
 * [Who is subjects? ](coming_soon.md)
 * [How it looks from legal perspective?](coming_soon.md)
